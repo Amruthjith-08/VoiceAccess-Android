@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceAccess</string>
+    <string name="accessibility_service_label">VoiceAccess control service</string>
+    <string name="accessibility_service_description">Allows VoiceAccess to perform explicitly requested navigation and accessible UI actions.</string>
+</resources>

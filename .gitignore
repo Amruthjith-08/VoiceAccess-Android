@@ -1,0 +1,11 @@
+# Android Studio and Gradle-generated files
+.gradle/
+.idea/
+local.properties
+build/
+app/build/
+*.iml
+
+# Android signing credentials must never be committed.
+*.jks
+*.keystore
